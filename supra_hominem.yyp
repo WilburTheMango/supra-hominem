@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.200.0.475",
+    "IDEVersion":"2024.200.0.502",
   },
   "name":"supra_hominem",
   "resources":[
@@ -82,8 +82,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"roomId":{"name":"rm_outdoor_street","path":"rooms/rm_outdoor_street/rm_outdoor_street.yy",},},
+    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"roomId":{"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},},
     {"roomId":{"name":"rm_indoor_template","path":"rooms/rm_indoor_template/rm_indoor_template.yy",},},
     {"roomId":{"name":"rm_apartment_hall","path":"rooms/rm_apartment_hall/rm_apartment_hall.yy",},},
