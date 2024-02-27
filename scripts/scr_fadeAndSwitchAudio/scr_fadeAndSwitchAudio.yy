@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_fadeAndSwitchAudio",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_fadeAndSwitchAudio",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
